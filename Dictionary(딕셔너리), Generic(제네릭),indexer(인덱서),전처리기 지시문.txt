@@ -1,0 +1,9 @@
+Dictionary(딕셔너리), Generic(제네릭),indexer(인덱서),전처리기 지시문
+
+var타입 : 
+
+indexer : 속성(property)과 비슷 어떤 클래스 안에 멤버의 요소에 접근할때 쓰는것
+
+전처리기 지시문
+DEBUG : 디버그 모드에서 사용하는
+TRACE : 배포를 했을시에 구문을 추적할때 쓰는
